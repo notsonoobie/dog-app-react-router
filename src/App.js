@@ -24,9 +24,9 @@ class App extends Component {
         age   : 5,
         src   : Hazel,
         facts : [
-          "Hazel loves eating popcorn",
-          "Hazel is a terrible guard dog",
-          "Hazel wants to cuddle with you!"
+          "Hazel loves eating ice-cream",
+          "Hazel hates hooman",
+          "Hazel wants to play with you!"
         ]
       },
       {
@@ -34,9 +34,9 @@ class App extends Component {
         age   : 5,
         src   : Tubby,
         facts : [
-          "Tubby loves eating popcorn",
-          "Tubby is a terrible guard dog",
-          "Tubby wants to cuddle with you!"
+          "Tubby loves eating bones",
+          "Tubby is a good boy",
+          "Tubby doesn't like cuddles!"
         ]
       }
     ]
